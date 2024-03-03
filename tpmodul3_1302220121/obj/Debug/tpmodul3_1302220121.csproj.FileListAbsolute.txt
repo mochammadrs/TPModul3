@@ -1,0 +1,10 @@
+D:\Coding\C#\tpmodul3_1302220121\tpmodul3_1302220121\bin\Debug\tpmodul3_1302220121.exe.config
+D:\Coding\C#\tpmodul3_1302220121\tpmodul3_1302220121\bin\Debug\tpmodul3_1302220121.exe
+D:\Coding\C#\tpmodul3_1302220121\tpmodul3_1302220121\bin\Debug\tpmodul3_1302220121.pdb
+D:\Coding\C#\tpmodul3_1302220121\tpmodul3_1302220121\obj\Debug\tpmodul3_1302220121.csproj.AssemblyReference.cache
+D:\Coding\C#\tpmodul3_1302220121\tpmodul3_1302220121\obj\Debug\tpmodul3_1302220121.Form1.resources
+D:\Coding\C#\tpmodul3_1302220121\tpmodul3_1302220121\obj\Debug\tpmodul3_1302220121.Properties.Resources.resources
+D:\Coding\C#\tpmodul3_1302220121\tpmodul3_1302220121\obj\Debug\tpmodul3_1302220121.csproj.GenerateResource.cache
+D:\Coding\C#\tpmodul3_1302220121\tpmodul3_1302220121\obj\Debug\tpmodul3_1302220121.csproj.CoreCompileInputs.cache
+D:\Coding\C#\tpmodul3_1302220121\tpmodul3_1302220121\obj\Debug\tpmodul3_1302220121.exe
+D:\Coding\C#\tpmodul3_1302220121\tpmodul3_1302220121\obj\Debug\tpmodul3_1302220121.pdb
